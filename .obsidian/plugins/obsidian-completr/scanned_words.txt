@@ -1090,6 +1090,9 @@ aWld
 aNm
 agq
 aid
+arcsin
+arccos
+arctan
 graph
 gAMA
 gx
@@ -2132,6 +2135,7 @@ rQI
 rwD
 rvHR
 rwy
+rad
 them
 the
 to
@@ -2270,6 +2274,7 @@ twz
 tkO
 tzo
 tng
+tan
 commit
 commands
 conflicted
@@ -2420,6 +2425,8 @@ cHZ
 cEF
 ckem
 cDZ
+circle
+cos
 using
 use
 ut
@@ -2581,6 +2588,7 @@ uya
 uOOv
 unv
 uSPJ
+unit
 followed
 file
 for
@@ -7524,6 +7532,7 @@ LUC
 LfB
 Lxs
 LtAi
+LaTeX
 üY
 üy
 Äw

@@ -326,6 +326,7 @@ igq
 izB
 iCt
 iYj
+iff
 Windows
 Wk
 WyRk
@@ -2275,6 +2276,7 @@ tkO
 tzo
 tng
 tan
+tfrac
 commit
 commands
 conflicted
@@ -2427,6 +2429,7 @@ ckem
 cDZ
 circle
 cos
+cases
 using
 use
 ut
@@ -3423,6 +3426,7 @@ lLq
 laG
 lgi
 laY
+log
 Not
 Ng
 NJKKM
@@ -4396,6 +4400,7 @@ FNi
 FkH
 FEvG
 FfnK
+FxFyf
 each
 every
 eK
@@ -6435,6 +6440,7 @@ nvyg
 nGe
 nAJ
 nUZ
+neq
 Mn
 MOO
 Mm
@@ -7141,6 +7147,7 @@ qbb
 qPS
 qH
 qop
+quad
 XW
 Xd
 Xg

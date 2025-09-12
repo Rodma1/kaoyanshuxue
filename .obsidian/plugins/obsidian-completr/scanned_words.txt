@@ -4401,6 +4401,8 @@ FkH
 FEvG
 FfnK
 FxFyf
+FxFz
+FyFz
 each
 every
 eK
